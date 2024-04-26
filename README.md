@@ -1,7 +1,7 @@
-# project Name: DA-Baby-Step
+# Project Name: DA-Baby-Step
 
 ---
-# project Objective: Problem statement
+# Project Objective: Problem Statement
 
 
 
@@ -16,4 +16,4 @@
 
 
 ----
-# Findings and recommendation
+# Findings and Recommendation
